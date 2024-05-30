@@ -6,6 +6,7 @@ Parte de la app de gestion de citas de clinica odontologica para el final de ing
 
 ## Formulario de ingreso: lib/view/widgets/createEmployee.view.dart
 ## Codigo de pruebas unitarias: test/create_employee_view_test.dart
+## Pipeline: .github/workflows/flutter.yml
 
 Aplicación de Inicio de Sesión
 Esta es una aplicación de ejemplo que muestra un formulario de inicio de sesión y un formulario para crear un empleado. La aplicación está desarrollada en Flutter y utiliza un diseño de interfaz de usuario simple y limpio.
